@@ -1,0 +1,9 @@
+npm init -y
+
+github : airbnb -> npx install-peerdeps --dev eslint-config-airbnb
+
+npx install-peerdeps --dev eslint-config-airbnb
+
+npm i -D prettier eslint-config-prettier eslint-plugin-prettier
+
+npm i husky
